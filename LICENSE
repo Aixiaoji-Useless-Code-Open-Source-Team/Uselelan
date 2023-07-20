@@ -1,24 +1,35 @@
-This is free and unencumbered software released into the public domain.
+UCOS许可证
 
-Anyone is free to copy, modify, publish, use, compile, sell, or
-distribute this software, either in source code form or as a compiled
-binary, for any purpose, commercial or non-commercial, and by any
-means.
+版本：1.1
 
-In jurisdictions that recognize copyright laws, the author or authors
-of this software dedicate any and all copyright interest in the
-software to the public domain. We make this dedication for the benefit
-of the public at large and to the detriment of our heirs and
-successors. We intend this dedication to be an overt act of
-relinquishment in perpetuity of all present and future rights to this
-software under copyright law.
+首先，UCOS许可证（以下简称“本许可证”）是一个滑稽的开源软件许可证，用于规定使用无用的、滑稽的或者屎山代码（在编写代码的过程中无意创造出来的或者有意）的开源软件。使用本许可证的开源软件必须符合以下条款：
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
-OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
-ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
-OTHER DEALINGS IN THE SOFTWARE.
+定义
+1.1 无用的、滑稽的或者屎山代码：指在软件开发过程中被认为没有实际用途，或者是出于滑稽、玩笑或恶搞目的而添加的代码片段。
 
-For more information, please refer to <https://unlicense.org>
+1.2 有用：指具有实际功能、用途或者价值的代码。
+
+1.3 商业：指将软件用于盈利、销售或者其他商业目的的行为。
+
+1.4 派生作品：指基于使用本许可证的开源软件进行修改、衍生或扩展而创建的新软件。
+
+使用本许可证的开源软件必须为无用的、滑稽的或者屎山代码（在编写代码的过程中无意创造出来的，或者有意）。
+
+使用：
+2.1 如果您使用了使用本协议的代码，您需要在软件或者网页的适当位置明确声明使用了UCOS许可证的代码，并提供UCOS许可证的完整文本。
+
+商业使用：
+3.1 如果您是库的主人：您需要开发软件的另一个版本，该版本允许用于商业目的，但您不能在使用UCOS许可证的软件上直接进行商业运作。在商业版本的软件或者网页上，您需要提供UCOS许可证版本的免费版本链接，并确保免费版本具备基本功能。
+
+3.2 如果您不是库的主人：您需要在您的软件或者网页中注明原作者的开源库，并在使用的页面底部注明：“使用Useless Code Open Source License的代码，原作者：（原作者的链接）”。
+
+3.3 商业软件可以不开源，但是仍需遵守第2.1和第2.2条款。
+
+派生作品：
+4.1 在您的派生作品中，您可以进行任何修改和改进，但不能用使用UCOS许可证的代码产生任何有用的派生作品。如果您产生了有用的作品，请另行获得合适的许可证。
+
+继续了解更多信息，请访问：Aixiaoji-Useless-Code-Open-Source-Team.github.io/ucosl
+
+如有任何问题，请联系：yangborui@aixiaoji.tk
+
+编写UCOS许可证的团队：Aixiaoji-Useless-Code-Open-Source-Team（AUCOST）（没用的代码开源团队（附属Aixiaoji Team））
