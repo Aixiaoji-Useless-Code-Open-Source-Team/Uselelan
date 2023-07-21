@@ -1,6 +1,6 @@
 # Uselelan（UL）解释器
 
-![Uselelan Logo](logo.png)
+![Uselelan Logo](https://aixiaoji-useless-code-open-source-team.github.io/Uselelan/logo.png)
 
 ## 简介
 
